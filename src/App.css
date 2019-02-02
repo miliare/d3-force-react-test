@@ -22,6 +22,16 @@
   color: #61dafb;
 }
 
+.cursor {
+  fill: none;
+  stroke: brown;
+  pointer-events: none;
+}
+
+.link {
+  stroke: #999;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
